@@ -1,2 +1,5 @@
 INTRODUCTION
 Beginning of the paper.
+
+METHODS
+Catch as catch can.
